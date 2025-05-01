@@ -13,3 +13,5 @@ g++ -std=c++17 -O2 -o dice_game dice_game_main.cpp
 g++ -std=c++17 -O2 -static -o dice_game.exe dice_game_main.cpp 
 # Windows (MSVC)  
 cl /std:c++17 /O2 /EHsc dice_game_main.cpp /Fe:dice_game.exe
+```
+![image alt](https://github.com/Mosasi/dice-game/blob/main/images/screenshot.png?raw=true)
